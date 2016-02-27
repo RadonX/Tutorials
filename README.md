@@ -1,3 +1,5 @@
+Programming is too broad. It is not possible I collect all useful materials. 
+When I find any great online documents, text books, etc, I will update them here. 
 
 
 - [_The Linux Command Line_](http://linuxcommand.org/index.php)
